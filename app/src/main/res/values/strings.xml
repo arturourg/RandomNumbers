@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">RandomNumbers</string>
+    <string name="button">RANDOM</string>
+    <string name="logoDescription">Logo Aplicacion</string>
+    <string name="primerNumero">Primer numero</string>
+    <string name="segundoNumero">Segundo numero</string>
 </resources>
